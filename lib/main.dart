@@ -46,6 +46,10 @@ class _MyAppState extends State<MyApp> {
         'questionText': 'What\'s your favorite color?3',
         'answers': ['Black', 'Red', 'Green', 'Pink'],
       },
+      {
+        'questionText': 'What\'s your favorite flavor of icecream?',
+        'answers': ['Chocolate', 'Cream', 'Coco', 'Apple'],
+      },
     ];
 
     return MaterialApp(
